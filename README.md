@@ -1,4 +1,4 @@
-# YKT_HELPER/雨课堂-ppt自动播放
+# YKT-ppt-AutoPlay / 雨课堂-ppt自动播放
 
 <!DOCTYPE html>
 <html lang="zh_cn">
